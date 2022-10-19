@@ -13,16 +13,23 @@ h1 {
 }
 
 h2 {
-  color: #66BFBF;
+  color: #11999E;
   font-weight: normal;
-  font-size: 2.25rem;
-  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+
   padding-bottom: 10px;
 }
 
 h3 {
-  color: #11999E;
-  font-family: "Montserrat", sans-serif;
+  color: #66BFBF;
+
+  font-size: 1.25rem;
+}
+
+h4 {
+
+  font-size: 1.10rem;
+  font-weight: lighter;
 }
 
 p {
@@ -73,6 +80,7 @@ a {
 }
 
 .intro {
+  font-size: 1.2rem;
   width: 30%;
   margin: auto;
 }
