@@ -64,7 +64,7 @@ a {
 
   .skill-row {
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 140px auto 140px auto;
     text-align: left;
 }
 
@@ -102,12 +102,14 @@ a {
   .chart-img {
     width: 25%;
     float: right;
+    margin-left: 30px;
 
   }
 
   .giphy-embed {
     width: 25%;
     float: left;
+    margin-right: 30px;
   }
 
   .btn {
