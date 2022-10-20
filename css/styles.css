@@ -22,7 +22,7 @@ h2 {
 
 h3 {
   color: #66BFBF;
-  font-size: 1.65rem;
+  font-size: 1.7rem;
 }
 
 h4 {
@@ -36,7 +36,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #B2B2B2 6px;
   border-bottom: none;
   width: 4%;
   margin: 40px auto;
@@ -70,7 +70,7 @@ a {
 
   .skill-row {
     width: 50%;
-    margin: 140px auto 140px auto;
+    margin: 130px auto 130px auto;
     text-align: left;
 }
 
@@ -114,7 +114,7 @@ a {
   }
 
   .giphy-embed {
-    width: 25%;
+    width: 30%;
     float: left;
     margin-right: 30px;
   }
